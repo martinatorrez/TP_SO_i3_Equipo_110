@@ -1,1 +1,6 @@
-datos:
+----GAMMA----
+Nombre: Sergio
+Apellido: Gonzalez
+Hora: 19:12
+IP: 192.168.1.104
+
